@@ -1,11 +1,9 @@
 # pack travas 🌠
-<p align="center">  
-   <a href="https://github.com/NeKosmic-NK"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=travas+por+skid%F0%9F%92%96;travas+crasheando+whatsapp%F0%9F%92%96" height="90px" 
- </p>
+<a href="https://git.io/typing-svg"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFFFFF&width=435&lines=crasheando+whatsapp%F0%9F%94%A5;travas+actualizadas+%F0%9F%8C%A0.;by+skid" alt="Typing SVG" /></a>
  
  -------
  
-### 𝐀𝐂𝐓𝐈𝐕𝐀 𝐄𝐋 𝐓𝐄𝐑𝐌𝐔𝐗
+### 𝐀𝐂𝐓𝐈𝐕𝐀  𝐋𝐀𝐒 𝐓𝐑𝐀𝐕𝐀𝐒
 ```bash
 𝐂𝐎𝐌𝐎 𝐔𝐒𝐀𝐑 𝐋𝐀𝐒 𝐓𝐑𝐀𝐕𝐀𝐒 𝐂𝐎𝐑𝐑𝐄𝐂𝐓𝐀𝐌𝐄𝐍𝐓𝐄
 import fetch from 'node-fetch'
